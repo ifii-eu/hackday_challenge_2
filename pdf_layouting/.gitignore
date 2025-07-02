@@ -1,0 +1,10 @@
+venv/
+documents/*.pdf
+layout_data/*.json
+output_md/*
+!output_md/*.example
+output_pdf/*.pdf
+output_img/*
+output_ai/*
+.env
+*/__pycache__

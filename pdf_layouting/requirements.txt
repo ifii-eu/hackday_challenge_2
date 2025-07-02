@@ -1,0 +1,3 @@
+fitz
+google-generativeai
+pillow
